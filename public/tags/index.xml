@@ -1,41 +1,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Oliver Palm</title>
-	<link>https://oliverpalm.xyz/tags/</link>
+	<link>http://localhost:1313/tags/</link>
 	<description>Recent content in Tags on Oliver Palm</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Tue, 25 Mar 2025 18:15:54 +0100</lastBuildDate>
     
-        <atom:link href="https://oliverpalm.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
+		<title>Hardware</title>
+		<link>http://localhost:1313/hardware/</link>
+		<pubDate>Wed, 26 Mar 2025 15:38:38 +0100</pubDate>
+		
+		<guid>http://localhost:1313/hardware/</guid>
+		<description>&lt;p&gt;My very expensice and not at al bad hardware&amp;hellip;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Cooking</title>
+		<link>http://localhost:1313/cooking/</link>
+		<pubDate>Wed, 26 Mar 2025 15:38:30 +0100</pubDate>
+		
+		<guid>http://localhost:1313/cooking/</guid>
+		<description>&lt;p&gt;Look food:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;add food&lt;/li&gt;
+&lt;li&gt;profit&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Config</title>
+		<link>http://localhost:1313/config/</link>
+		<pubDate>Wed, 26 Mar 2025 14:46:20 +0100</pubDate>
+		
+		<guid>http://localhost:1313/config/</guid>
+		<description>&lt;p&gt;These are my configs!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Contact</title>
-		<link>https://oliverpalm.xyz/contact/</link>
+		<link>http://localhost:1313/contact/</link>
 		<pubDate>Tue, 25 Mar 2025 18:15:54 +0100</pubDate>
 		
-		<guid>https://oliverpalm.xyz/contact/</guid>
+		<guid>http://localhost:1313/contact/</guid>
 		<description>&lt;p&gt;My email: &lt;a href=&#34;mailto:oliver.palm35@gmail.com&#34;&gt;oliver.palm35@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>Bio</title>
-		<link>https://oliverpalm.xyz/bio/</link>
+		<link>http://localhost:1313/bio/</link>
 		<pubDate>Tue, 25 Mar 2025 13:02:13 +0100</pubDate>
 		
-		<guid>https://oliverpalm.xyz/bio/</guid>
+		<guid>http://localhost:1313/bio/</guid>
 		<description>&lt;p&gt;here is a bio&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>About me!</title>
-		<link>https://oliverpalm.xyz/about/</link>
+		<link>http://localhost:1313/about/</link>
 		<pubDate>Tue, 25 Mar 2025 12:53:24 +0100</pubDate>
 		
-		<guid>https://oliverpalm.xyz/about/</guid>
+		<guid>http://localhost:1313/about/</guid>
 		<description>&lt;p&gt;Words and stuff&lt;/p&gt;
 &lt;p&gt;cool more words, wow!&lt;/p&gt;
 </description>

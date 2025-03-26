@@ -2,27 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://oliverpalm.xyz/contact/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-26T15:43:01+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2025-03-26T15:43:01+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hardware/</loc>
+    <lastmod>2025-03-26T15:38:38+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cooking/</loc>
+    <lastmod>2025-03-26T15:38:30+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/config/</loc>
+    <lastmod>2025-03-26T14:46:20+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-03-25T18:15:54+01:00</lastmod>
   </url><url>
-    <loc>https://oliverpalm.xyz/</loc>
+    <loc>http://localhost:1313/tags/personal/</loc>
     <lastmod>2025-03-25T18:15:54+01:00</lastmod>
   </url><url>
-    <loc>https://oliverpalm.xyz/tags/personal/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-25T18:15:54+01:00</lastmod>
   </url><url>
-    <loc>https://oliverpalm.xyz/tags/</loc>
-    <lastmod>2025-03-25T18:15:54+01:00</lastmod>
-  </url><url>
-    <loc>https://oliverpalm.xyz/bio/</loc>
+    <loc>http://localhost:1313/bio/</loc>
     <lastmod>2025-03-25T13:02:13+01:00</lastmod>
   </url><url>
-    <loc>https://oliverpalm.xyz/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-03-25T12:53:24+01:00</lastmod>
   </url><url>
-    <loc>https://oliverpalm.xyz/tags/idk/</loc>
+    <loc>http://localhost:1313/tags/idk/</loc>
     <lastmod>2025-03-25T12:53:24+01:00</lastmod>
   </url><url>
-    <loc>https://oliverpalm.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
