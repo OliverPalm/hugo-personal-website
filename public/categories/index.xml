@@ -1,30 +1,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Oliver Palm</title>
-	<link>http://localhost:1313/categories/</link>
+	<link>https://oliverpalm.xyz/categories/</link>
 	<description>Recent content in Categories on Oliver Palm</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://oliverpalm.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
+		<title>Contact</title>
+		<link>https://oliverpalm.xyz/contact/</link>
+		<pubDate>Tue, 25 Mar 2025 18:15:54 +0100</pubDate>
+		
+		<guid>https://oliverpalm.xyz/contact/</guid>
+		<description>&lt;p&gt;My email: &lt;a href=&#34;mailto:oliver.palm35@gmail.com&#34;&gt;oliver.palm35@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Bio</title>
-		<link>http://localhost:1313/bio/</link>
+		<link>https://oliverpalm.xyz/bio/</link>
 		<pubDate>Tue, 25 Mar 2025 13:02:13 +0100</pubDate>
 		
-		<guid>http://localhost:1313/bio/</guid>
+		<guid>https://oliverpalm.xyz/bio/</guid>
 		<description>&lt;p&gt;here is a bio&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>About me!</title>
-		<link>http://localhost:1313/about/</link>
+		<link>https://oliverpalm.xyz/about/</link>
 		<pubDate>Tue, 25 Mar 2025 12:53:24 +0100</pubDate>
 		
-		<guid>http://localhost:1313/about/</guid>
+		<guid>https://oliverpalm.xyz/about/</guid>
 		<description>&lt;p&gt;Words and stuff&lt;/p&gt;
 &lt;p&gt;cool more words, wow!&lt;/p&gt;
 </description>

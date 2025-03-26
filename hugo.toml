@@ -2,4 +2,4 @@ baseURL = 'https://oliverpalm.xyz/'
 languageCode = 'en-us'
 title = 'Oliver Palm'
 
-theme = 'lugo'
+theme = 'opugo'

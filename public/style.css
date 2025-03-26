@@ -4,15 +4,31 @@ body {
 	color: #ccc ;
 }
 
+h1, p {
+  color: #ccc;
+  text-align: center;
+}
+
+.h-center-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: auto;
+}
+
 main {
 	max-width: 800px ;
-	margin: auto ;
+  margin: auto;
 }
 
-img {
+
+figcaption,img {
 	max-width: 100% ;
+  text-align: center;
+  display: block;
+  margin: auto;
 }
-
 header h1 {
 	text-align: center ;
 }
