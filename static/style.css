@@ -4,9 +4,17 @@ body {
 	color: #ccc ;
 }
 
-h1, p {
+h1,h2,h3, p {
   color: #ccc;
   text-align: center;
+}
+
+a{
+  color: chocolate;
+}
+
+.img_thing{
+  color: chocolate;
 }
 
 .h-center-container{
