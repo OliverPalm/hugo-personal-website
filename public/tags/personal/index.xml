@@ -11,16 +11,25 @@
 	
 	
 	<item>
+		<title>Temp</title>
+		<link>http://localhost:1313/temp/</link>
+		<pubDate>Thu, 27 Mar 2025 14:44:22 +0100</pubDate>
+		
+		<guid>http://localhost:1313/temp/</guid>
+		<description></description>
+	</item>
+	
+	<item>
 		<title>Project</title>
 		<link>http://localhost:1313/project/</link>
 		<pubDate>Wed, 26 Mar 2025 15:43:01 +0100</pubDate>
 		
 		<guid>http://localhost:1313/project/</guid>
-		<description>&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
-&lt;hr&gt;
+		<description>&lt;hr&gt;
 &lt;h3 id=&#34;server-website-and-emails&#34;&gt;Server, Website, and Emails&lt;/h3&gt;
 &lt;p&gt;To host my websites and my personal email service I use a VPS provided by &lt;a href=&#34;https://dartnode.com/vps/1/configure&#34;&gt;DartNode&lt;/a&gt;. All of my personal websitess are built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;, for a introduction/tutorial on HUGO I highly recommend Luke Smith&amp;rsquo;s &lt;a href=&#34;https://videos.lukesmith.xyz/w/oz4VV8SrnTEACCndxMASZH&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
+&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
 </description>
 	</item>
 	
@@ -31,6 +40,7 @@
 		
 		<guid>http://localhost:1313/hardware/</guid>
 		<description>&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
+&lt;p&gt;this is a test&lt;/p&gt;
 </description>
 	</item>
 	
@@ -58,6 +68,7 @@
 &lt;h3 id=&#34;editors&#34;&gt;Editors&lt;/h3&gt;
 &lt;p&gt;Much ink has been spiled franticaly arguing why one editor is objectively better than another, so let me not add wood to an eternaly roaring flame. I use vim (nvim for the pedantic), and more specificaly I use &lt;a href=&#34;https://nvchad.com/&#34;&gt;NvChad&lt;/a&gt;. It works like a charm and has all the features I need.&lt;/p&gt;
 &lt;hr&gt;
+&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
 </description>
 	</item>
 	

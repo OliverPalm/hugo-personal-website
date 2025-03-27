@@ -14,3 +14,6 @@ Honestly no complaints. It works out of the box, easy to configure, looks greate
 ### Editors
 Much ink has been spiled franticaly arguing why one editor is objectively better than another, so let me not add wood to an eternaly roaring flame. I use vim (nvim for the pedantic), and more specificaly I use [NvChad](https://nvchad.com/). It works like a charm and has all the features I need. 
 ***
+
+# Work in Progress
+
