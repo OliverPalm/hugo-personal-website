@@ -4,7 +4,4 @@ title = 'Cooking'
 tags = ['cooking']
 +++
 
-Look food:
-
-1. add food
-2. profit
+# Work in Progress

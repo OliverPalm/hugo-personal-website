@@ -9,11 +9,7 @@ h1,h2,h3, p {
   text-align: center;
 }
 
-a{
-  color: chocolate;
-}
-
-.img_thing{
+a,.img_thing{
   color: chocolate;
 }
 

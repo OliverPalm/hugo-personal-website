@@ -15,7 +15,11 @@
 		<pubDate>Wed, 26 Mar 2025 15:43:01 +0100</pubDate>
 		
 		<guid>http://localhost:1313/project/</guid>
-		<description>&lt;p&gt;So many useful and cool things I have made!&lt;/p&gt;
+		<description>&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;server-website-and-emails&#34;&gt;Server, Website, and Emails&lt;/h3&gt;
+&lt;p&gt;To host my websites and my personal email service I use a VPS provided by &lt;a href=&#34;https://dartnode.com/vps/1/configure&#34;&gt;DartNode&lt;/a&gt;. All of my personal websitess are built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;HUGO&lt;/a&gt;, for a introduction/tutorial on HUGO I highly recommend Luke Smith&amp;rsquo;s &lt;a href=&#34;https://videos.lukesmith.xyz/w/oz4VV8SrnTEACCndxMASZH&#34;&gt;video&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
 </description>
 	</item>
 	
@@ -25,7 +29,7 @@
 		<pubDate>Wed, 26 Mar 2025 15:38:38 +0100</pubDate>
 		
 		<guid>http://localhost:1313/hardware/</guid>
-		<description>&lt;p&gt;My very expensice and not at al bad hardware&amp;hellip;&lt;/p&gt;
+		<description>&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
 </description>
 	</item>
 	
@@ -35,11 +39,7 @@
 		<pubDate>Wed, 26 Mar 2025 15:38:30 +0100</pubDate>
 		
 		<guid>http://localhost:1313/cooking/</guid>
-		<description>&lt;p&gt;Look food:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;add food&lt;/li&gt;
-&lt;li&gt;profit&lt;/li&gt;
-&lt;/ol&gt;
+		<description>&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
 </description>
 	</item>
 	
@@ -51,11 +51,12 @@
 		<guid>http://localhost:1313/software_and_config/</guid>
 		<description>&lt;hr&gt;
 &lt;h3 id=&#34;window-managers-vs-desktop-enviorments&#34;&gt;Window Managers VS Desktop Enviorments&lt;/h3&gt;
-&lt;p&gt;Having used Windows for most of my life I though a desktop enviorment worked just fine, but I nonetheless hade a feeling that one could do better. This feeling lead me to look for alternatives (window managers) where I found &lt;a href=&#34;https://hyprland.org/&#34;&gt;Hyprland.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Honestly no complaints. It works out of the box, easy to configure, looks greate with minimal changes, and is a joy to use. My personal config file can be found &lt;a href=&#34;https://github.com/OliverPalm/hyprland-config&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Having used Windows for most of my life I though a desktop enviorment worked just fine, but I nonetheless hade a feeling that one could do better. This feeling lead me to look for alternatives (window managers) where I found &lt;a href=&#34;https://hyprland.org/&#34;&gt;Hyprland&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Honestly no complaints. It works out of the box, easy to configure, looks greate with minimal changes, and is a joy to use. My personal config file can be found &lt;a href=&#34;https://github.com/OliverPalm/hyprland-config&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;editors&#34;&gt;Editors&lt;/h3&gt;
-&lt;p&gt;Much ink has been spiled franticaly arguing why one editor is objectively better than another, so let me not add wood to an eternaly roaring flame. I use vim (nvim for the pedantic), and more specificaly I use &lt;a href=&#34;https://nvchad.com/&#34;&gt;NvChad.&lt;/a&gt; It works like a charm and has all the features I need.&lt;/p&gt;
+&lt;p&gt;Much ink has been spiled franticaly arguing why one editor is objectively better than another, so let me not add wood to an eternaly roaring flame. I use vim (nvim for the pedantic), and more specificaly I use &lt;a href=&#34;https://nvchad.com/&#34;&gt;NvChad&lt;/a&gt;. It works like a charm and has all the features I need.&lt;/p&gt;
+&lt;hr&gt;
 </description>
 	</item>
 	
@@ -65,7 +66,8 @@
 		<pubDate>Tue, 25 Mar 2025 18:15:54 +0100</pubDate>
 		
 		<guid>http://localhost:1313/contact/</guid>
-		<description>&lt;p&gt;My email: &lt;a href=&#34;mailto:oliver.palm35@gmail.com&#34;&gt;oliver.palm35@gmail.com&lt;/a&gt;&lt;/p&gt;
+		<description>&lt;h1 id=&#34;work-in-progress&#34;&gt;Work in Progress&lt;/h1&gt;
+&lt;p&gt;My email: &lt;a href=&#34;mailto:oliver.palm35@gmail.com&#34;&gt;oliver.palm35@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	

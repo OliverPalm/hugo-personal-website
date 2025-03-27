@@ -4,4 +4,4 @@ title = 'Hardware'
 tags = ['hardware', 'personal info']
 +++
 
-My very expensice and not at al bad hardware...
+# Work in Progress

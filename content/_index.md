@@ -1,12 +1,13 @@
 +++
-Title = "Oliverpalm.xyz"
+Title = "Oliver Palm"
 +++
 
-{{<img caption="This is me" src="/circle_pfp.png">}}
+{{<img src="/circle_pfp.png">}}
+
 
 Hello! This is my personal website, where you can find: software project, varius config's files, and even recipes.
-
 ***
+
 {{<img_list class="h-center-container">}}
     
 {{<img class="img_thing" link="https://github.com/OliverPalm" caption="Github" src="/git.png">}}
