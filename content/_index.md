@@ -2,7 +2,6 @@
 Title = "Oliver Palm"
 +++
 
-
 {{<img src="/circle_pfp.png">}}
 
 
