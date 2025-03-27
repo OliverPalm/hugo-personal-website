@@ -4,13 +4,13 @@ title = 'Miso Salmon'
 tags = ['salmon','japanese','cooking']
 +++
 
--   Prep time: 10 min
--   Cook time: 20-30 min
--   Servings: 4
+- Prep time: 10 min
+- Cook time: 20-30 min
+- Servings: 4
 
 ## Ingredients
 - 600-800 g salmon
-- 4 Tbsp miso (Any type seems to work)
+- 4 Tbsp miso
 - 2 Tbsp sake
 - 2 Tbsp mirin
 - 2 Tbsp soy sauce 

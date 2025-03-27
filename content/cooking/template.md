@@ -5,9 +5,9 @@ tags = ['cooking']
 draft = true
 +++
 
--   Prep time: 10 min
--   Cook time: 20-30 min
--   Servings: 4
+- Prep time: 10 min
+- Cook time: 20-30 min
+- Servings: 4
 
 ## Ingredients
 
